@@ -1,0 +1,14 @@
+C:\Users\lerom\OneDrive\Área de Trabalho\Programação\csharp-projeto-musical\bin\Debug\net8.0\csharp-projeto-musical.exe
+C:\Users\lerom\OneDrive\Área de Trabalho\Programação\csharp-projeto-musical\bin\Debug\net8.0\csharp-projeto-musical.deps.json
+C:\Users\lerom\OneDrive\Área de Trabalho\Programação\csharp-projeto-musical\bin\Debug\net8.0\csharp-projeto-musical.runtimeconfig.json
+C:\Users\lerom\OneDrive\Área de Trabalho\Programação\csharp-projeto-musical\bin\Debug\net8.0\csharp-projeto-musical.dll
+C:\Users\lerom\OneDrive\Área de Trabalho\Programação\csharp-projeto-musical\bin\Debug\net8.0\csharp-projeto-musical.pdb
+C:\Users\lerom\OneDrive\Área de Trabalho\Programação\csharp-projeto-musical\obj\Debug\net8.0\csharp-projeto-musical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lerom\OneDrive\Área de Trabalho\Programação\csharp-projeto-musical\obj\Debug\net8.0\csharp-projeto-musical.AssemblyInfoInputs.cache
+C:\Users\lerom\OneDrive\Área de Trabalho\Programação\csharp-projeto-musical\obj\Debug\net8.0\csharp-projeto-musical.AssemblyInfo.cs
+C:\Users\lerom\OneDrive\Área de Trabalho\Programação\csharp-projeto-musical\obj\Debug\net8.0\csharp-projeto-musical.csproj.CoreCompileInputs.cache
+C:\Users\lerom\OneDrive\Área de Trabalho\Programação\csharp-projeto-musical\obj\Debug\net8.0\csharp-projeto-musical.dll
+C:\Users\lerom\OneDrive\Área de Trabalho\Programação\csharp-projeto-musical\obj\Debug\net8.0\refint\csharp-projeto-musical.dll
+C:\Users\lerom\OneDrive\Área de Trabalho\Programação\csharp-projeto-musical\obj\Debug\net8.0\csharp-projeto-musical.pdb
+C:\Users\lerom\OneDrive\Área de Trabalho\Programação\csharp-projeto-musical\obj\Debug\net8.0\csharp-projeto-musical.genruntimeconfig.cache
+C:\Users\lerom\OneDrive\Área de Trabalho\Programação\csharp-projeto-musical\obj\Debug\net8.0\ref\csharp-projeto-musical.dll
