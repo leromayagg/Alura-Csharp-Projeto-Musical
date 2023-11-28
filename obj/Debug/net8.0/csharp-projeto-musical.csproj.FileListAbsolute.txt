@@ -12,3 +12,4 @@ C:\Users\lerom\OneDrive\Área de Trabalho\Programação\csharp-projeto-musical\o
 C:\Users\lerom\OneDrive\Área de Trabalho\Programação\csharp-projeto-musical\obj\Debug\net8.0\csharp-projeto-musical.pdb
 C:\Users\lerom\OneDrive\Área de Trabalho\Programação\csharp-projeto-musical\obj\Debug\net8.0\csharp-projeto-musical.genruntimeconfig.cache
 C:\Users\lerom\OneDrive\Área de Trabalho\Programação\csharp-projeto-musical\obj\Debug\net8.0\ref\csharp-projeto-musical.dll
+C:\Users\lerom\OneDrive\Área de Trabalho\Programação\csharp-projeto-musical\obj\Debug\net8.0\csharp-projeto-musical.sourcelink.json
